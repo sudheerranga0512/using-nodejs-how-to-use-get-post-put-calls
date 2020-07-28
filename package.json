@@ -1,0 +1,25 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "sudheerranga0512"
+  },
+  "keywords": [
+    "myself",
+    "sudheer"
+  ],
+  "author": "SR SIGN",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express.js": "^1.0.0",
+    "mongodb": "^3.5.9",
+    "zone.js": "^0.10.3"
+  }
+}
